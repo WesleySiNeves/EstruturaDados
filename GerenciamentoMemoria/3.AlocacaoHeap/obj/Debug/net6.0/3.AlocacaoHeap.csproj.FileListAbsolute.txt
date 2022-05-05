@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\bin\Debug\net6.0\3.AlocacaoHeap.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\bin\Debug\net6.0\3.AlocacaoHeap.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\bin\Debug\net6.0\3.AlocacaoHeap.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\bin\Debug\net6.0\3.AlocacaoHeap.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\bin\Debug\net6.0\3.AlocacaoHeap.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\refint\3.AlocacaoHeap.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\3.AlocacaoHeap.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\3.AlocacaoHeap\obj\Debug\net6.0\ref\3.AlocacaoHeap.dll

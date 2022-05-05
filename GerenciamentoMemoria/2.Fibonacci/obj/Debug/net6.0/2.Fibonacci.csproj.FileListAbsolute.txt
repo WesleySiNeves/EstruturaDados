@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\bin\Debug\net6.0\2.Fibonacci.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\bin\Debug\net6.0\2.Fibonacci.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\bin\Debug\net6.0\2.Fibonacci.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\bin\Debug\net6.0\2.Fibonacci.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\bin\Debug\net6.0\2.Fibonacci.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\refint\2.Fibonacci.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\2.Fibonacci.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\2.Fibonacci\obj\Debug\net6.0\ref\2.Fibonacci.dll

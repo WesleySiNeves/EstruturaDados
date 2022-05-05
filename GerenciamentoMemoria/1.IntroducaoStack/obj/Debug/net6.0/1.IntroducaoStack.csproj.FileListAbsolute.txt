@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\bin\Debug\net6.0\1.IntroducaoStack.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\bin\Debug\net6.0\1.IntroducaoStack.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\bin\Debug\net6.0\1.IntroducaoStack.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\bin\Debug\net6.0\1.IntroducaoStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\bin\Debug\net6.0\1.IntroducaoStack.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\refint\1.IntroducaoStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\1.IntroducaoStack.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\1.IntroducaoStack\obj\Debug\net6.0\ref\1.IntroducaoStack.dll
