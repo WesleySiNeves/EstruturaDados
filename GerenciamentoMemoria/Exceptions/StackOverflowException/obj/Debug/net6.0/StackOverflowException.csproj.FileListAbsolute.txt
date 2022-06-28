@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\bin\Debug\net6.0\StackOverflowException.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\bin\Debug\net6.0\StackOverflowException.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\bin\Debug\net6.0\StackOverflowException.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\bin\Debug\net6.0\StackOverflowException.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\bin\Debug\net6.0\StackOverflowException.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\refint\StackOverflowException.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\StackOverflowException.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Exceptions\StackOverflowException\obj\Debug\net6.0\ref\StackOverflowException.dll

@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\bin\Debug\net6.0\ProjetoLista.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\bin\Debug\net6.0\ProjetoLista.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\bin\Debug\net6.0\ProjetoLista.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\bin\Debug\net6.0\ProjetoLista.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\bin\Debug\net6.0\ProjetoLista.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\refint\ProjetoLista.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ProjetoLista.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\ProjetoLista\ProjetoLista\obj\Debug\net6.0\ref\ProjetoLista.dll

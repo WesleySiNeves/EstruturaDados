@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\bin\Debug\net6.0\AnalisadorExpressoesStack.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\bin\Debug\net6.0\AnalisadorExpressoesStack.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\bin\Debug\net6.0\AnalisadorExpressoesStack.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\bin\Debug\net6.0\AnalisadorExpressoesStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\bin\Debug\net6.0\AnalisadorExpressoesStack.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\refint\AnalisadorExpressoesStack.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\AnalisadorExpressoesStack.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EstruturaDeDados\Exercicios\AnalisadorExpressoesStack\obj\Debug\net6.0\ref\AnalisadorExpressoesStack.dll

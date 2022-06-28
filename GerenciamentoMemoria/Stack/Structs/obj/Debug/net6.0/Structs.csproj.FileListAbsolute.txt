@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\bin\Debug\net6.0\Structs.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\bin\Debug\net6.0\Structs.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\bin\Debug\net6.0\Structs.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\bin\Debug\net6.0\Structs.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\refint\Structs.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Stack\Structs\obj\Debug\net6.0\ref\Structs.dll

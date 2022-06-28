@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Demos/1.0.0": {
+        "dependencies": {
+          "1.IntroducaoStack": "1.0.0",
+          "3.AlocacaoHeap": "1.0.0"
+        },
+        "runtime": {
+          "Demos.dll": {}
+        }
+      },
+      "1.IntroducaoStack/1.0.0": {
+        "runtime": {
+          "1.IntroducaoStack.dll": {}
+        }
+      },
+      "3.AlocacaoHeap/1.0.0": {
+        "runtime": {
+          "3.AlocacaoHeap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "1.IntroducaoStack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3.AlocacaoHeap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\bin\Debug\net6.0\HidenAlocation.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\bin\Debug\net6.0\HidenAlocation.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\bin\Debug\net6.0\HidenAlocation.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\bin\Debug\net6.0\HidenAlocation.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\bin\Debug\net6.0\HidenAlocation.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\refint\HidenAlocation.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\HidenAlocation.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\HidenAlocation\obj\Debug\net6.0\ref\HidenAlocation.dll

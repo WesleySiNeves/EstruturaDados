@@ -1,0 +1,15 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\bin\Debug\net6.0\Construtores.exe
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\bin\Debug\net6.0\Construtores.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\bin\Debug\net6.0\Construtores.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\bin\Debug\net6.0\Construtores.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\Construtores\obj\Debug\net6.0\ref\Construtores.dll

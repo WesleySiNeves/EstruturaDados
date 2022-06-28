@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "1.IntroducaoStack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/1.IntroducaoStack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/1.IntroducaoStack.dll": {}
+        }
+      },
+      "3.AlocacaoHeap/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/3.AlocacaoHeap.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3.AlocacaoHeap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1.IntroducaoStack/1.0.0": {
+      "type": "project",
+      "path": "../../1.IntroducaoStack/1.IntroducaoStack.csproj",
+      "msbuildProject": "../../1.IntroducaoStack/1.IntroducaoStack.csproj"
+    },
+    "3.AlocacaoHeap/1.0.0": {
+      "type": "project",
+      "path": "../../3.AlocacaoHeap/3.AlocacaoHeap.csproj",
+      "msbuildProject": "../../3.AlocacaoHeap/3.AlocacaoHeap.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "1.IntroducaoStack >= 1.0.0",
+      "3.AlocacaoHeap >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\Demostracao\\Demos\\Demos.csproj",
+      "projectName": "Demos",
+      "projectPath": "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\Demostracao\\Demos\\Demos.csproj",
+      "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
+      "outputPath": "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\Demostracao\\Demos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\1.IntroducaoStack\\1.IntroducaoStack.csproj": {
+              "projectPath": "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\1.IntroducaoStack\\1.IntroducaoStack.csproj"
+            },
+            "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\3.AlocacaoHeap\\3.AlocacaoHeap.csproj": {
+              "projectPath": "D:\\Wesley\\repos\\EstruturaDados\\GerenciamentoMemoria\\3.AlocacaoHeap\\3.AlocacaoHeap.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

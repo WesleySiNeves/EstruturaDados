@@ -1,0 +1,14 @@
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\bin\Debug\net6.0\EntityEF6.deps.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\bin\Debug\net6.0\EntityEF6.runtimeconfig.json
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\bin\Debug\net6.0\EntityEF6.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\bin\Debug\net6.0\EntityEF6.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.csproj.AssemblyReference.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.AssemblyInfoInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.AssemblyInfo.cs
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\refint\EntityEF6.dll
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.pdb
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\EntityEF6.genruntimeconfig.cache
+D:\Wesley\repos\EstruturaDados\GerenciamentoMemoria\EF6\EntityEF6\obj\Debug\net6.0\ref\EntityEF6.dll
