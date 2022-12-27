@@ -23,7 +23,7 @@ using Construtores.Entity;
 
 var demo2 = new DemostracaoComplexa();
 
-demo2.Xosa();
+//demo2.Xosa();
 
 //demo.InicializandoListasComSize();
 
@@ -33,6 +33,6 @@ demo2.Xosa();
 //Console.WriteLine("Segundo Teste");
 
 
-//demo2.InicializandoComContrutor();
+demo2.InicializandoComContrutor();
 
 //Console.WriteLine("Segundo Teste");

@@ -100,6 +100,7 @@ namespace Construtores
             for (int iterador = 0; iterador < size; iterador++)
             {
 
+             // 200 MB
                 var pessoa = new PessoasEntity();
 
 

@@ -13,16 +13,14 @@ namespace Construtores.Entity
         public PessoasEntityComplexo()
         {
 
-            //PessoaFisica = new PessoasFisicasEntity() { GeneroMasculino = true };
-            //PessoaJuridica = new PessoasJuridicasEntity();
-            //InstituicaoEnsino = new InstituicoesEnsinoEntity();
+          
             Especializacao = PessoaEspecializacao.Pessoa;
             TiposEntidades = new List<PessoasTiposEntidadesEntity>();
             AreasAtuacoes = new List<PessoasAreasAtuacoesEntity>();
             SetoresAtuacoes = new List<PessoasSetoresAtuacoesEntity>();
             Enderecos = new List<EnderecosEntity>();
-            //Emails = new List<EmailsEntity>();
-            _Emails = null;
+            Emails = new List<EmailsEntity>();
+            //_Emails = null;
             Telefones = new List<TelefonesEntity>();
             Imagens = new List<PessoasImagensEntity>();
             PessoasJuridicasResponsaveisEntity = new List<PessoasJuridicasResponsaveisEntity>();
@@ -35,23 +33,15 @@ namespace Construtores.Entity
 
         }
 
-        public PessoasEntityComplexo(bool create)
+
+        public void teste()
         {
+            var pe = new PessoasEntityComplexo();
 
-
+            pe.PessoaFisica.NomeConjuge
         }
 
-        public static PessoasEntityComplexo CreateSample()
-        {
-            var pessoa = new PessoasEntityComplexo(true);
 
-           
-
-
-            return pessoa;
-        }
-
-      
 
         public const int PreferenciaTipoCorrespondencia = (int)Util.PreferenciaCorrespondencia.ReceberPorCorreio;
 
@@ -310,8 +300,22 @@ namespace Construtores.Entity
             }
         }
 
+        //[DataMember]
 
-        public PessoasFisicasEntity _PessoaFisica;
+        //public PessoasFisicasEntity PessoaFisica { get; set; }
+
+
+        //[DataMember]
+        //public PessoasJuridicasEntity PessoaJuridica { get; set; }
+
+        //[DataMember]
+        //public InstituicoesEnsinoEntity InstituicaoEnsino { get; set; }
+
+
+
+        #region Singleton 
+
+        private  PessoasFisicasEntity _PessoaFisica;
         /// <summary>
         /// Define os dados de pessoa fisica
         /// </summary>
@@ -337,14 +341,60 @@ namespace Construtores.Entity
 
         }
 
+
+        public PessoasJuridicasEntity _PessoaJuridica;
         /// <summary>
-        /// Define os dados de pessoa juridica
+        /// Define os dados de pessoa fisica
         /// </summary>
         [DataMember]
-        public PessoasJuridicasEntity PessoaJuridica { get; set; }
+        public PessoasJuridicasEntity PessoaJuridica
+        {
 
+            get
+            {
+
+                if (_PessoaJuridica == null)
+                {
+                    _PessoaJuridica = new PessoasJuridicasEntity();
+                }
+
+                return _PessoaJuridica;
+            }
+            set
+            {
+                _PessoaJuridica = value;
+
+            }
+
+        }
+
+        public InstituicoesEnsinoEntity _InstituicoesEnsino;
+        /// <summary>
+        /// Define os dados de pessoa fisica
+        /// </summary>
         [DataMember]
-        public InstituicoesEnsinoEntity InstituicaoEnsino { get; set; }
+        public InstituicoesEnsinoEntity InstituicaoEnsino
+        {
+
+            get
+            {
+
+                if (_InstituicoesEnsino == null)
+                {
+                    _InstituicoesEnsino = new InstituicoesEnsinoEntity();
+                }
+
+                return _InstituicoesEnsino;
+            }
+            set
+            {
+                _InstituicoesEnsino = value;
+
+            }
+
+        }
+
+        //#endregion
 
 
         /// <summary>
@@ -354,33 +404,34 @@ namespace Construtores.Entity
         public List<EnderecosEntity> Enderecos { get; set; }
 
 
-
-        private List<EmailsEntity> _Emails = null;
-
-        /// <summary>
-        /// Define os e-mails da pessoa
-        /// </summary>
         [DataMember]
-        public List<EmailsEntity> Emails
-        {
+        public List<EmailsEntity> Emails { get; set; }
+        //private List<EmailsEntity> _Emails = null;
 
-            get
-            {
+        ///// <summary>
+        ///// Define os e-mails da pessoa
+        ///// </summary>
+        //[DataMember]
+        //public List<EmailsEntity> Emails
+        //{
 
-                if (_Emails == null)
-                {
-                    _Emails = new List<EmailsEntity>();
-                }
+        //    get
+        //    {
 
-                return _Emails;
-            }
-            set
-            {
+        //        if (_Emails == null)
+        //        {
+        //            _Emails = new List<EmailsEntity>();
+        //        }
 
-                _Emails = value;
+        //        return _Emails;
+        //    }
+        //    set
+        //    {
 
-            }
-        }
+        //        _Emails = value;
+
+        //    }
+        //}
 
         /// <summary>
         /// Define os telefones da pessoa
